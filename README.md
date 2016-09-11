@@ -17,3 +17,5 @@ For example:
 > Unit 1's reading assignment asks students to read the contents of this link: http://hhh.gavilan.edu/dvantassel/history/history.html
 >
 > Unfortunately following that link will give a 403 forbidden error. This link is listed under "required" so either authorization issues need to be addressed, or an alternative needs to be supplied.
+
+Another important detail to provide would be an alternative resource if the linked one is missing. Many times, links are meant to bring us to a PDF copy of a text book. If that link is broken, see about finding an alternative place where that PDF may exist, and provide a link to that resource when submitting your issue, so that other students can find it with less hassle.
